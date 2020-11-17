@@ -23,7 +23,7 @@ mutation EntityExtractionDAG{
       }
 {
         # entityExtraction
-        engineId: "cb2b77b9-3478-4e51-844f-e4064384bb33"
+        engineId: "0bf3b38f-6022-412b-b58e-819a2b633786"
         ioFolders: [
           {
             referenceId: "engineInputFolder"
