@@ -14,3 +14,8 @@
 <p><a href="https://github.com/gbateman-vtn/API-Quickstart/blob/main/Entity%20Extraction">5 Process Transcription Output (VTN standard json) through Entity Extraction</a></p>
 
 <p><a href="https://github.com/gbateman-vtn/API-Quickstart/blob/main/Get%20Assets">6 Get Asset:URI of Entity Extraction output</a></p>
+
+
+
+<p><a href="https://docs.veritone.com/#/quickstart/jobs/">API Calls based on Veritone Docs found here.</a></p>
+
