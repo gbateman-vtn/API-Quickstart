@@ -1,8 +1,0 @@
-query: {
-    chunkID: '000003.000040008.000060000_1599850980554375085_fc437c75-fee2-4dc1-9fbd-d862474cfe1d.in',
-    internalJobID: 'cbf8d56f-e276-411d-ad81-15f7e701286d',
-    internalTaskID: '140da14f-67e5-4621-b654-b1ca59853c66',
-    jobID: '20093711_LZfDxbHMAV',
-    taskID: '20093711_LZfDxbHMAVDSxjH',
-    timestamp: '1599856013'
-  }
