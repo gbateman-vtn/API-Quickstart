@@ -1,0 +1,12 @@
+query getEngineOutput {
+  engineResults(tdoId: "<TdoID>",
+    engineIds: ["06bbc2e7-aa59-4c32-9ec3-1a147fff78a6"]) { # Retrieves results from specified engine
+    records {
+      tdoId
+      engineId
+      startOffsetMs
+      stopOffsetMs
+      jsondata
+      assetId
+      userEdited
+}}}
