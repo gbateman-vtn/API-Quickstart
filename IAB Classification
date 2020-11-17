@@ -22,7 +22,7 @@ mutation IABclassificationDAG{
         ]
       }
 {
-        # econtext
+        # IAB Content Classification
         engineId: "06bbc2e7-aa59-4c32-9ec3-1a147fff78a6"
         ioFolders: [
           {
