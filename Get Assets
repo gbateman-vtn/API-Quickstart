@@ -1,0 +1,24 @@
+query getAssets {
+  temporalDataObject(id: "<TdoID>") {
+    primaryAsset(assetType: "media") {
+      id
+      signedUri
+      uri
+    }
+    assets {
+      records {
+        id
+        sourceData {
+          engine {
+            id
+            displayName
+            description
+          }
+        }        
+        id
+        signedUri
+
+      }
+    }
+  }
+}
