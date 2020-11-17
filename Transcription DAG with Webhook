@@ -29,7 +29,7 @@ mutation webhook {
           ioFolders: [
             { referenceId: "owInputFolder", mode: chunk, type: input }
           ]
-         notificationUris: ["WEBHOOK_ENDPOINT"] # req.query.jobId is the property that you can access to pull job results
+         notificationUris: ["WEBHOOK_ENDPOINT"] 
         }
       ]
       routes: [
